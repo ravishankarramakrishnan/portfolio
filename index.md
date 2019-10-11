@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Ravishankar Ramakrishnan Portfolio Page
+
+# About
+
+Hi, I'm Ravi located in Chennai, India and currently working as a Junior Data Scientist in a Talent Strategy firm [HR-Tech domain] and pursuing M-Tech Data Science and Engineering from BITS Pilani.
 
 You can use the [editor on GitHub](https://github.com/ravishankarramakrishnan/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
