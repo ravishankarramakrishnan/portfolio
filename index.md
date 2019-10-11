@@ -22,9 +22,7 @@ Worked on MEAN Stack on building a Ticketing Application (Long Ago :P) and my ot
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/ravishankar-ramakrishnan-155848126/)
 
-Please find my Portfolio below
-
--------------------------------------------------------------------------------------------------
+Please find my Portfolio below:
 
 You can use the [editor on GitHub](https://github.com/ravishankarramakrishnan/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
