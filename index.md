@@ -4,21 +4,21 @@
 
 Hi, I'm Ravi located in Chennai, India and currently working as a Junior Data Scientist in a Talent Strategy firm [HR-Tech domain] and pursuing _M-Tech Data Science and Engineering_ from **BITS Pilani**.
 
-My domain of work comprises of using technical skills such as Python, R, Tableau, SQL to solve many real world challenges and to perform Data Analysis to identify potential trends and features.
+My domain of work comprises of using technical skills such as **Python, R, Tableau, SQL** to solve many real world challenges and to perform Data Analysis to identify potential trends and features.
 
-I work with Packages such as Pandas, tidyr, lubridate and Dplyr for Data Manupulation and Data Wrangling; Numpy and Scipy for working with Numerical computing problems; Seaborn, Matplotlib, Plotly, ggplot2 for Data Visualisation along with Tableau, MS Excel and Powerpoint; and use rvest, BeautifulSoup, Requests, Selenium Webdriver to perform Web Scraping and Automated Tasks.
+I work with Packages such as Pandas, tidyr, lubridate and Dplyr for *Data Manupulation and Data Wrangling*; Numpy and Scipy for working with *Numerical computing* problems; Seaborn, Matplotlib, Plotly, ggplot2 for *Data Visualisation* along with Tableau, MS Excel and Powerpoint; and use rvest, BeautifulSoup, Requests, Selenium Webdriver to perform *Web Scraping and Automated Tasks*.
 
-I work with SciKit-learn, Tensorflow, Keras, re, NLTK, Spacy for Machine Learning and Deep Learning projects
+I work with **SciKit-learn, Tensorflow, Keras, re, NLTK, Spacy** for Machine Learning and Deep Learning projects
 
 I had experience in working with both Structured and Unstructured data, but no experience in Semi Structured Data
 
-My Academics are Comprised of Data Structures and Algorithms (Traditional), Data Mining (Association Analysis, Clustering, Classification, Anomaly Detection), Math for Data Science( Linear Transformations, Vector Space, Eigen problems, Graphs, Sets and Functions) and Computer Organisation and Operating Systems (Cache, OS, Memory Management, Architecture)
+My Academics are Comprised of *Data Structures and Algorithms* (Traditional), *Data Mining* (Association Analysis, Clustering, Classification, Anomaly Detection), *Math for Data Science*( Linear Transformations, Vector Space, Eigen problems, Graphs, Sets and Functions) and *Computer Organisation and Operating Systems* (Cache, OS, Memory Management, Architecture)
 
-Currently entering into Data Engineering paradigm with PySpark, SQL, Apache Airflow for performing ETL and Data Pipelining
+Currently entering into Data Engineering paradigm with *PySpark, SQL, Apache Airflow* for performing ETL and Data Pipelining
 
-Interested in Working with NLP, OpenCV, BERT and Deep Learning Stuff.
+Interested in Working on **NLP, OpenCV, BERT and Deep Learning** Stuff.
 
-Worked on MEAN Stack on building a Ticketing Application (Long Ago :P) and my other basic tasks include Creating HTML Templates for Newsletter, Designing via Canva and working alongside management in Strategy Planning
+Worked on *MEAN Stack* on building a Ticketing Application (Long Ago :P) and my other basic tasks include Creating HTML Templates for Newsletter, Designing via Canva and working alongside management in Strategy Planning
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/ravishankar-ramakrishnan-155848126/)
 
