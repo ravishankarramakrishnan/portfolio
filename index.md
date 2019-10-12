@@ -24,38 +24,58 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/ravishankar-ramakrishn
 
 Please find my Portfolio below:
 
-You can use the [editor on GitHub](https://github.com/ravishankarramakrishnan/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```
+Some of My Data Science, Machine Learning, Deep Learning Projects
 
-### Markdown
+# Classification : Breast Cancer Classification
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This Data Set was of Sklearn - UCI Machine Learning Breast Cancer prediction. You can [See the Code Here!](https://github.com/ravishankarramakrishnan/Breast_Cancer_Classification/blob/master/Breast%20Cancer%20Classification.ipynb/)
 
-```markdown
-Syntax highlighted code block
+# Classification : Titanic Survival Prediction
 
-# Header 1
-## Header 2
-### Header 3
+This Data Set was of from Kaggle on predicting the Survival of persons in Titanic. You can [See the Code Here!](https://github.com/ravishankarramakrishnan/Python_Projects_1/blob/master/Titanic%20Survival/Titanic-Exploration.ipynb/)
 
-- Bulleted
-- List
+# Classification : Prediction of Mails as Ham or Spam
 
-1. Numbered
-2. List
+This Data Set was of from Kaggle on predicting whether the given mail is a Spam or not. It was a base NLP task. You can [See the Code Here!](https://github.com/ravishankarramakrishnan/Python_Projects_1/blob/master/Spam%20Classification/Spam%20Classification.ipynb/)
 
-**Bold** and _Italic_ and `Code` text
+# Classification : Recommendation of Skills based on Cosine Similarity
 
-[Link](url) and ![Image](src)
+This Data Set was Created from Scratch. It was Inspired from MovieLens Dataset. Cosine Similarity and Other Distance Metrics was the theme. You can [See the Code Here!](https://github.com/ravishankarramakrishnan/Python_Projects_1/blob/master/Skills%20Tech%20Recommendation/Skill%20Recommender%20System.ipynb/)
+
+# Classification : Predicting which kind of Bees 
+
+This Data Set was from Datacamp on . This was an Image Classification Tasks. You can [See the Code Here!](https://github.com/ravishankarramakrishnan/DataAnalysis_DATACAMP/blob/master/notebook.ipynb/)
+
+# NLP : Topic Modelling on Trends on Machine Learning 
+
+This Data Set was from Datacamp on . This was an NLP Task and it comes under Cluster of Topic Modelling. You can [See the Code Here!](https://github.com/ravishankarramakrishnan/DataAnalysis_DATACAMP/blob/master/The%20Hottest%20Topics%20in%20Machine%20Learning/notebook.ipynb/)
+
+Some other Data Engineering Tasks performed can be [Seen Here!](https://github.com/ravishankarramakrishnan/Data_Engineering_notes)
+
+Data Preprocessing Methods using Pandas can be [Viewed Here!](https://github.com/ravishankarramakrishnan/Python_Basics_1.1/blob/master/Python%20-%201/1%20-%20Pandas%20Basics.ipynb)
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Certifications
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ravishankarramakrishnan/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+My Certifications include many which comprises of Technical (Machine Learning, Deep Learning, Python, Blockchain, Matlab etc.) and Functional (Corporate Strategy, Six Sigma[Green Belt], Project Management, Product Management, Digital Marketing/Growth Hacking and Advanced Management Training)
 
-### Support or Contact
+`
+I'm Currently Pursuing Masters in Technology (M-Tech): Data Science and Engineering from **BITS PILANI** and Graduated as a BE - CSE Engineer from **Sathyabama University** on 2016
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My M-Tech comprises of Subjects as : 
+
+Completed (Sem_1) - Data Mining, Algorithms & Data Structures, Math for Data Science and Computer Organisation and OS.
+
+Current (Sem_2) - Data Visualisation, Statistics, Data Science, Machine Learning
+
+Future (Sem_3) - Deep Learning, NLP, Real Time Analytics, AI and Big Data
+
+`
+
+### Thank you for visiting my Portfolio Page
+
+Want to contact me? Check out my [Linkedin Page](https://www.linkedin.com/in/ravishankar-ramakrishnan-155848126/) or mail me @[ravish7895@gmail.com](ravish7895@gmail.com). Once again Thanks!
