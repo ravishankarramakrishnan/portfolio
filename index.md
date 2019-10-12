@@ -28,27 +28,27 @@ Please find my Portfolio below:
 
 ## Some of My Data Science, Machine Learning, Deep Learning Projects
 
-# ML : Breast Cancer Classification
+### ML : Breast Cancer Classification
 
 This Data Set was of Sklearn - UCI Machine Learning Breast Cancer prediction. You can [See the Code Here!](https://github.com/ravishankarramakrishnan/Breast_Cancer_Classification/blob/master/Breast%20Cancer%20Classification.ipynb/)
 
-# ML : Titanic Survival Prediction
+### ML : Titanic Survival Prediction
 
 This Data Set was of from Kaggle on predicting the Survival of persons in Titanic. You can [See the Code Here!](https://github.com/ravishankarramakrishnan/Python_Projects_1/blob/master/Titanic%20Survival/Titanic-Exploration.ipynb/)
 
-# NLP : Prediction of Mails as Ham or Spam
+### NLP : Prediction of Mails as Ham or Spam
 
 This Data Set was of from Kaggle on predicting whether the given mail is a Spam or not. It was a base NLP task. You can [See the Code Here!](https://github.com/ravishankarramakrishnan/Python_Projects_1/blob/master/Spam%20Classification/Spam%20Classification.ipynb/)
 
-# Recommendation : Recommendation of Skills based on Cosine Similarity
+### Recommendation : Recommendation of Skills based on Cosine Similarity
 
 This Data Set was Created from Scratch. It was Inspired from MovieLens Dataset. Cosine Similarity and Other Distance Metrics was the theme. You can [See the Code Here!](https://github.com/ravishankarramakrishnan/Python_Projects_1/blob/master/Skills%20Tech%20Recommendation/Skill%20Recommender%20System.ipynb/)
 
-# Image Classification : Predicting which kind of Bees 
+### Image Classification : Predicting which kind of Bees 
 
 This Data Set was from Datacamp on . This was an Image Classification Tasks. You can [See the Code Here!](https://github.com/ravishankarramakrishnan/DataAnalysis_DATACAMP/blob/master/notebook.ipynb/)
 
-# NLP : Topic Modelling on Trends on Machine Learning 
+### NLP : Topic Modelling on Trends on Machine Learning 
 
 This Data Set was from Datacamp on . This was an NLP Task and it comes under Cluster of Topic Modelling. You can [See the Code Here!](https://github.com/ravishankarramakrishnan/DataAnalysis_DATACAMP/blob/master/The%20Hottest%20Topics%20in%20Machine%20Learning/notebook.ipynb/)
 
@@ -57,12 +57,15 @@ Some other Data Engineering Tasks performed can be [Seen Here!](https://github.c
 Data Preprocessing Methods using Pandas can be [Viewed Here!](https://github.com/ravishankarramakrishnan/Python_Basics_1.1/blob/master/Python%20-%201/1%20-%20Pandas%20Basics.ipynb)
 
 ```
-### Certifications
+Certifications
 
-My Certifications include many which comprises of Technical (Machine Learning, Deep Learning, Python, Blockchain, Matlab etc.) and Functional (Corporate Strategy, Six Sigma[Green Belt], Project Management, Product Management, Digital Marketing/Growth Hacking and Advanced Management Training)
+My Certifications include many which comprises of Technical (Machine Learning, Deep Learning, Python, 
+Blockchain, Matlab etc.) and Functional (Corporate Strategy, Six Sigma[Green Belt], Project Management, 
+Product Management, Digital Marketing/Growth Hacking and Advanced Management Training)
 
 
-I'm Currently Pursuing Masters in Technology (M-Tech): Data Science and Engineering from **BITS PILANI** and Graduated as a BE - CSE Engineer from **Sathyabama University** on 2016
+I'm Currently Pursuing Masters in Technology (M-Tech): Data Science and Engineering from BITS PILANI 
+and Graduated as a BE - CSE Engineer from Sathyabama University on 2016
 
 My M-Tech comprises of Subjects as : 
 
