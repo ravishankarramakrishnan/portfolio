@@ -69,7 +69,8 @@ and Graduated as a BE - CSE Engineer from Sathyabama University on 2016
 
 My M-Tech comprises of Subjects as : 
 
-Completed (Sem_1) - Data Mining, Algorithms & Data Structures, Math for Data Science and Computer Organisation and OS.
+Completed (Sem_1) - Data Mining, Algorithms & Data Structures, Math for Data Science and Computer Organisation 
+and OS.
 
 Current (Sem_2) - Data Visualisation, Statistics, Data Science, Machine Learning
 
@@ -79,4 +80,4 @@ Future (Sem_3) - Deep Learning, NLP, Real Time Analytics, AI and Big Data
 
 ### Thank you for visiting my Portfolio Page
 
-Want to contact me? Check out my [Linkedin Page](https://www.linkedin.com/in/ravishankar-ramakrishnan-155848126/) or mail me @[ravish7895@gmail.com](ravish7895@gmail.com). Once again Thanks!
+Want to contact me? Check out my [Linkedin Page](https://www.linkedin.com/in/ravishankar-ramakrishnan-155848126/) or mail me @**ravish7895@gmail.com**. Once again Thanks!
