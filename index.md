@@ -16,7 +16,9 @@ My Academics are Comprised of _Data Structures and Algorithms_ (Traditional), _D
 
 Currently entering into Data Engineering paradigm with _PySpark, SQL, Apache Airflow_ for performing ETL and Data Pipelining
 
-Interested in Working on **NLP, OpenCV, BERT and Deep Learning** Stuff.
+Interested in Working on Different Data Science and Analytics Problems such as Data Visualisation, Statistical/Predictive Modelling, NLP, OpenCV, BERT, Machine Learning, Deep Learning Stuff etc.
+
+Willing to work on End to End Machine Learning/Deep Learning Stuff. 
 
 Worked on _MEAN Stack_ on building a Ticketing Application (Long Ago :P) and my other basic tasks include _Creating HTML Templates_ for Newsletter, _Designing_ via Canva and working alongside management in Strategy Planning
 
