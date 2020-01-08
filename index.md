@@ -79,7 +79,7 @@ Current (Sem_2) - Data Visualisation, Statistics, Data Science, Machine Learning
 Future (Sem_3) - Deep Learning, NLP, Real Time Analytics, AI and Big Data
 
 ```
-## [View my Resume here!](shorturl.at/amCFI)
+## [View my Resume here!](https://drive.google.com/file/d/1rNU7ogCZvq1GuZehBsHoEf2clG4amiUb/view)
 
 ### Thank you for visiting my Portfolio Page
 
