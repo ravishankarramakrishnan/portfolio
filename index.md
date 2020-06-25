@@ -42,7 +42,7 @@ This Data Set was of from Kaggle on predicting the Survival of persons in Titani
 
 This Data Set was of from Kaggle on predicting whether the given mail is a Spam or not. It was a base NLP task. You can [See the Code Here!](https://github.com/ravishankarramakrishnan/Python_Projects_1/blob/master/Spam%20Classification/Spam%20Classification.ipynb/)
 
-### Recommendation : Recommendation of Skills based on Cosine Similarity
+### Recommendation : Recommendation of Skills based on Cosine Similarity & Collaborative Filtering
 
 This Data Set was Created from Scratch. It was Inspired from MovieLens Dataset. Cosine Similarity and Other Distance Metrics was the theme. You can [See the Code Here!](https://github.com/ravishankarramakrishnan/Python_Projects_1/blob/master/Skills%20Tech%20Recommendation/Skill%20Recommender%20System.ipynb/)
 
