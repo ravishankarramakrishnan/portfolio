@@ -79,7 +79,7 @@ Current (Sem_2) - Data Visualisation, Statistics, Data Science, Machine Learning
 Future (Sem_3) - Deep Learning, NLP, Real Time Analytics, AI and Big Data
 
 ```
-## [View my Resume here!](https://drive.google.com/file/d/1wtuesEDfisxsQoltFfKUy2hghkg6DB5g/view)
+## [View my Resume here!](https://drive.google.com/file/d/1-z0O0ugxoUGX1KpLZdhz8egqM2iySHZd/view)
 
 ### Thank you for visiting my Portfolio Page
 
